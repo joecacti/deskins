@@ -615,6 +615,12 @@ body {
   border-radius: 50%;
   border: 3px solid #eee;
 }
+.modalAddress {
+  text-align: center;
+}
+.modalAddress > p {
+  font-size: 12px;
+}
 ul.contactInfo > li {
   font-weight: 200;
   font-size: small;
